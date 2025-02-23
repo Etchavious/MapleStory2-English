@@ -1306,6 +1306,7 @@
 	<key id="s_login_err_main_atl" value="Currently, this service is only available for players whose identities have been verified." />
 	<key id="s_login_err_auto_external_block" value="This account is an old account.\nAn old account must complete identity verification at least once.\n\nYou will be able to play the game normally afterwards." />
 	<key id="s_login_err_tencent_signature" value="Game verification failed.\nPlease restart the game." />
+	<key id="s_login_err_create_account_block" value="The service is scheduled to close\n New accounts can no longer be created." />
 	<key id="s_login_err_nxa_ticket" value="Your login session has timed out. Please restart your client." />
 	<key id="s_login_err_nxa_launcher" value="Please make sure that the launcher is running and that you are logged in." />
 	<key id="s_ah_err_close" value="Disconnected from the server.\n({0}{1})" />
